@@ -14,7 +14,7 @@ fwrite($arquivo, $veiculo . " \n ");
 
 fclose($arquivo);
 
-header("Location: index.php");
+header("Location: index.php?mensagem=ok");
 
 echo " Reserva realizada com sucesso!";
 exit;
