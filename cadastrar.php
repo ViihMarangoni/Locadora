@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="salvar.php" method="post">
-        <input name="usuario" placeholder="Informe seu usuário">
+        <input name="usuario" placeholder="Informe seu usúario">
         <button>Salvar</button>
     </form>
 </body>

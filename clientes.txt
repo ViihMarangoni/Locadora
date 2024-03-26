@@ -1,0 +1,7 @@
+marlon;marlonducreu@gmail.com;
+guto;gutoducreu@gmail.com;
+mariana;marianaducreu@gmail.com;
+gabriel;gabrielducreu@gmail.com;
+samuel;samuelducreu@gmail.com;
+fran;franducreu@gmail.com;
+gigi;gigiducreu@gmail.com;
